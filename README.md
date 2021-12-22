@@ -11,5 +11,5 @@
 
 [![Python_PostgreSQL_Flask_Selenium_Power BI_Pandas_Excel_Numpy_DASH_Matplotlib_Scikit Learn](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=Python_PostgreSQL_Flask_Selenium_Power%20BI_Pandas_Excel_Numpy_DASH_Matplotlib_Scikit%20Learn)](https://pimp-my-readme.webapp.io)
 <img 
-   src="https://github-readme-stats.vercel.app/api?username=Vikranttyagi95&show_icons=true&theme=tokyonight" 
+   src="https://github-readme-stats.vercel.app/api?username=Vikranttyagi95&show_icons=true&theme=merko" 
 />
