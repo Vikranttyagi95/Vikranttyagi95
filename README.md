@@ -7,6 +7,9 @@
 
 [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://twitter.com/Tyagi_RaVikrant)
 [![LinkedIn](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=LinkedIn)](https://www.linkedin.com/in/vikrant-tyagi-a8520616b/)
-- The Tech I know...
+- **Langauges & Tools**
 
 [![Python_PostgreSQL_Flask_Selenium_Power BI_Pandas_Excel_Numpy_DASH_Matplotlib_Scikit Learn](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=Python_PostgreSQL_Flask_Selenium_Power%20BI_Pandas_Excel_Numpy_DASH_Matplotlib_Scikit%20Learn)](https://pimp-my-readme.webapp.io)
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=Vikranttyagi95&show_icons=true&theme=tokyonight" 
+/>
