@@ -12,6 +12,7 @@
 [![Python_PostgreSQL_Flask_Selenium_Power BI_Pandas_Excel_Numpy_DASH_Matplotlib_Scikit Learn](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=Python_PostgreSQL_Flask_Selenium_Power%20BI_Pandas_Excel_Numpy_DASH_Matplotlib_Scikit%20Learn)](https://pimp-my-readme.webapp.io)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikranttyagi95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <img 
    src="https://github-readme-stats.vercel.app/api?username=Vikranttyagi95&show_icons=true&theme=merko" 
 />
