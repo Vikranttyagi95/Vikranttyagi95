@@ -1,4 +1,4 @@
-[![Vikrant Tyagi, A life long learner of tech related to Data Science, Machine Learning](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20life%20long%20learner%20of%20tech%20related%20to%20Data%20Science%2C%20Machine%20Learning&title=Vikrant%20Tyagi)](https://pimp-my-readme.webapp.io)
+[![Vikrant Tyagi, A life long learner of tech Data Analytics, Data Engineering](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=A%20life%20long%20learner%20of%20tech%20related%20to%20Data%20Science%2C%20Machine%20Learning&title=Vikrant%20Tyagi)](https://pimp-my-readme.webapp.io)
 - 👋 Hi, I’m Vikrant Tyagi
 - 👀 I’m currently working as a Data Analyst.
 - 🌱 I’m constantly learning and improving my Data Science skills.
